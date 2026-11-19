@@ -1,0 +1,19 @@
+# 大文件，不要提交（GitHub 单文件上限 100MB）
+Multisim 14.0.rar
+Multisim 14.0/
+
+# 与环境相关，与项目无关
+.dsh-acl-recovery/
+
+# 原始题目压缩包（已解压为文件夹，避免重复占空间）
+2027年电子设计竞赛校级训练队招新选拔测试题.zip
+
+# 个人报名表：含手机号/QQ/邮箱，公共仓库请勿上传
+电子设计竞赛校内集训队报名*.xlsx
+
+# Windows / Office 临时文件
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
